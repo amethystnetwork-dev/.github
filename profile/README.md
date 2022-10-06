@@ -19,23 +19,22 @@
 
 </div>
 
-<h2>Discord Server</h2>
+## Discord Server
 
 Press the join button to join the server:
 
-<a href="https://discord.gg/J3VPy5Vy8x" title="Join us on Discord">
-<img src="https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light"></a>
+[![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)
 
-<h3>Projects</h3>
+## Projects
 
-<p><strong>Main</strong></p>
-<ul>
-    <li><a href="https://github.com/amethystnetwork-dev/Incognito">Incognito</a> - Unofficial Incognito easy deployment version with TompHTTP bare server included.</li>
-    <li><a href="https://github.com/amethystnetwork-dev/Tsunami-2.0">Tsunami Updated</a> - Tsunami Updated is a continuation of Nebelung's work and has a expanded game library.</li>
-    <li><a href="https://github.com/amethystnetwork-dev/bare-server-deployable">Bare Server Deployable</a> - A deployable version of the Bare Sever.</li>
-</ul>
+**Main**
+- [Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with TompHTTP bare server included.
+- [Tsunami Updated](https://github.com/amethystnetwork-dev/Tsunami-2.0) - Tsunami Updated is a continuation of Nebelung's work and has a expanded game library.
+- [Bare Server Deployable](https://github.com/amethystnetwork-dev/bare-server-deployable) - A deployable version of the Bare Sever.
 
-<p><strong>WIP</strong></p>
-<ul>
-    <li><a href="https://github.com/amethystnetwork-dev/Amethyst">Amethyst</a> - Custom proxy website</li>
-</ul>
+**Other**
+- [gfiles-fork](https://github.com/amethystnetwork-dev/gfiles-fork) - Fork of [BinBashBanana/gfiles](https://github.com/BinBashBanana/gfiles).
+- [google](https://github.com/amethystnetwork-dev/google) - Something found on Replit.
+
+**WIP**
+- [Amethyst](https://github.com/amethystnetwork-dev/Amethyst) - Custom proxy website.
