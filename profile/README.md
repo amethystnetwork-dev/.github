@@ -36,6 +36,7 @@ Press the join button to join the server:
 **Other**
 - [gfiles-fork](https://github.com/amethystnetwork-dev/gfiles-fork) - Modified fork of [BinBashBanana/gfiles](https://github.com/BinBashBanana/gfiles).
 - [google](https://github.com/amethystnetwork-dev/google) - Something found on Replit.
+- [Incognito-Lite](https://github.com/amethystnetwork-dev/Incognito-Lite) - A lite version of incognito powered by buffy
 
 **WIP**
 - [Amethyst](https://github.com/amethystnetwork-dev/Amethyst) - Custom proxy website.
