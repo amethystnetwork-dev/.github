@@ -34,7 +34,7 @@ Press the join button to join the server:
 - [Hypertabs](https://github.com/amethystnetwork-dev/Hypertabs) - A deployable version of Hypertabs
 
 **Other**
-- [gfiles-fork](https://github.com/amethystnetwork-dev/gfiles-fork) - Fork of [BinBashBanana/gfiles](https://github.com/BinBashBanana/gfiles).
+- [gfiles-fork](https://github.com/amethystnetwork-dev/gfiles-fork) - Modified fork of [BinBashBanana/gfiles](https://github.com/BinBashBanana/gfiles).
 - [google](https://github.com/amethystnetwork-dev/google) - Something found on Replit.
 
 **WIP**
