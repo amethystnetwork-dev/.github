@@ -10,33 +10,40 @@
 -->
 <!-- The font is called Big, if you are wondering -->
 <div align="center">
-
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/amethystnetwork-dev/.github/main/img/logo.png">
+<kbd>
+<img width="150px" src="https://raw.githubusercontent.com/amethystnetwork-dev/.github/main/img/logo.png">
+</kbd>
 
 <h1>Amethyst Network</h1>
-
 <h3>Proxy Development</h3>
-
 </div>
 
-## Discord Server
-
-Press the join button to join the server:
+### Discord Server
 
 [![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)
 
-## Projects
+### About
+
+Coming soon
+
+### Projects
+<details>
+<summary><b>Overview</b></summary>
 
 **Main**
+
 - [Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with TompHTTP bare server included.
-- [Tsunami Updated](https://github.com/amethystnetwork-dev/Tsunami-2.0) - Tsunami Updated is a continuation of Nebelung's work and has a expanded game library.
+- [Incognito-Lite](https://github.com/amethystnetwork-dev/Incognito-Lite) - A lite version of incognito powered by BUFFY
+- [Tsunami Updated](https://github.com/amethystnetwork-dev/Tsunami) - Tsunami Updated is a continuation of Nebelung's work and has a expanded game library.
 - [Bare Server Deployable](https://github.com/amethystnetwork-dev/bare-server-deployable) - A deployable version of the Bare Sever.
 - [Hypertabs](https://github.com/amethystnetwork-dev/Hypertabs) - A deployable version of Hypertabs
 
 **Other**
+
 - [gfiles-fork](https://github.com/amethystnetwork-dev/gfiles-fork) - Modified fork of [BinBashBanana/gfiles](https://github.com/BinBashBanana/gfiles).
 - [google](https://github.com/amethystnetwork-dev/google) - Something found on Replit.
-- [Incognito-Lite](https://github.com/amethystnetwork-dev/Incognito-Lite) - A lite version of incognito powered by buffy
 
 **WIP**
-- [Amethyst](https://github.com/amethystnetwork-dev/Amethyst) - Custom proxy website.
+
+- [Amethyst](https://github.com/amethystnetwork-dev/Amethyst) - Custom proxy website made for TN's proxathon.
+</details>
