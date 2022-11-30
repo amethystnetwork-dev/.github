@@ -32,9 +32,9 @@ Coming soon
 
 **Main**
 
-- [Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito thats easy to deploy with TompHTTP bare server included.
+- [Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with TompHTTP bare server included.
 - [Incognito-Lite](https://github.com/amethystnetwork-dev/Incognito-Lite) - A lite version of incognito powered by BUFFY.
-- [Tsunami Updated](https://github.com/amethystnetwork-dev/Tsunami) - Tsunami-2.0 is a continuation of Nebelung's work.
+- [Tsunami Updated](https://github.com/amethystnetwork-dev/Tsunami) - Tsunami Updated is a continuation of Nebelung's work.
 - [Bare Server Deployable](https://github.com/amethystnetwork-dev/bare-server-deployable) - A deployable version of the Bare Sever.
 - [Hypertabs](https://github.com/amethystnetwork-dev/Hypertabs) - A deployable version of Hypertabs.
 
