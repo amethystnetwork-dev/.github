@@ -24,7 +24,7 @@
 
 ### About
 
-Coming soon
+We make web-proxy sites.
 
 ### Projects
 <details>
