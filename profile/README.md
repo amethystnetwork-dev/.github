@@ -18,13 +18,17 @@
 <h3>Proxy Development</h3>
 </div>
 
+# NOTICE
+
+Anyone who opens a pointless issue or pull request will be banned.
+
 ### Discord Server
 
 [![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)
 
 ### About
 
-We make deployable versions of popular proxys.
+We make web-proxy sites.
 
 ### Projects
 <details>
