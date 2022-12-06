@@ -24,7 +24,7 @@
 
 ### About
 
-We make web-proxy sites.
+We make deployable versions of popular proxys.
 
 ### Projects
 <details>
