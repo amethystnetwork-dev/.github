@@ -11,7 +11,7 @@
 <!-- The font is called Big, if you are wondering -->
 <div align="center">
 <kbd>
-<img width="150px" src="https://raw.githubusercontent.com/amethystnetwork-dev/.github/main/img/logo.png">
+<img width="150px" src="https://amethystnetwork-dev.github.io/assets/img/logo.png">
 </kbd>
 
 <h1>Amethyst Network</h1>
