@@ -18,9 +18,15 @@
 <h3>Proxy Development</h3>
 </div>
 
+---
+
+<a href="https://alienhub.xyz/?utm_medium=amethystnetwork">
+  <img src="https://alienhub.xyz/alien1.gif" width="450" height="150"></img>
+</a>
+
 # NOTICE
 
-Anyone who opens a pointless issue or pull request will be banned.
+Anyone who opens a pointless issue or pull request will be blacklisted.
 
 ### Discord Server
 
