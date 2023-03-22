@@ -30,7 +30,7 @@ Anyone who opens a pointless issue or pull request will be blacklisted.
 
 ### Discord Server
 
-[![Join us on Discord](https://invidget.switchblade.xyz/J3VPy5Vy8x?theme=light)](https://discord.gg/J3VPy5Vy8x)
+[![Join us on Discord](https://invidget.switchblade.xyz/fzrmxgu2NR?theme=light)](https://discord.gg/fzrmxgu2NR)
 
 ### About
 
@@ -43,8 +43,7 @@ We make web-proxy sites.
 **Main**
 
 - [Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with TompHTTP bare server included.
-- [Incognito-Lite](https://github.com/amethystnetwork-dev/Incognito-Lite) - A lite version of incognito powered by BUFFY.
-- [Tsunami Updated](https://github.com/amethystnetwork-dev/Tsunami) - Tsunami Updated is a continuation of Nebelung's work.
+- [Incognito-Lite](https://github.com/amethystnetwork-dev/Incognito-Lite) - A lite version of Incognito powered by BUFFY.
 - [Bare Server Deployable](https://github.com/amethystnetwork-dev/bare-server-deployable) - A deployable version of the Bare Sever.
 - [Hypertabs](https://github.com/amethystnetwork-dev/Hypertabs) - A deployable version of Hypertabs.
 
