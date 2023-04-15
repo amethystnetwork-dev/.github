@@ -15,8 +15,6 @@
 </kbd>
 
 <h1>Amethyst Network</h1>
-<h3>Proxy Development</h3>
-
 <a href="https://mastodon.social/@AmethystNetDev" rel="me"><img src="https://img.shields.io/badge/Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a>
 <a href="https://amethystnetwork-dev.github.io/docs/"><img src="https://img.shields.io/badge/Docs-2e8555?style=for-the-badge&logo=gitbook&logoColor=white"></a>
 </div>
@@ -24,7 +22,7 @@
 ---
 
 <a href="https://alienhub.xyz/?utm_medium=amethystnetwork">
-  <img src="https://alienhub.xyz/alien1.gif" width="450" height="150">
+  <img src="https://alienhub.xyz/images/ad-c8de3fef-bff1-4963-a417-3995855d70e0.gif" width="450" height="150">
 </a>
 
 # NOTICE
