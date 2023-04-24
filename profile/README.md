@@ -44,6 +44,7 @@ We make web-proxy sites.
 **Main**
 
 - [Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with TompHTTP bare server included.
+- [Amethyst](https://github.com/amethystnetwork-dev/Amethyst) - Custom proxy website made for TN's proxathon.
 - [Incognito-Lite](https://github.com/amethystnetwork-dev/Incognito-Lite) - A lite version of Incognito powered by BUFFY.
 - [Bare Server Deployable](https://github.com/amethystnetwork-dev/bare-server-deployable) - A deployable version of the Bare Sever.
 - [Hypertabs](https://github.com/amethystnetwork-dev/Hypertabs) - A deployable version of Hypertabs.
@@ -55,7 +56,8 @@ We make web-proxy sites.
 
 **WIP**
 
-- [Amethyst](https://github.com/amethystnetwork-dev/Amethyst) - Custom proxy website made for TN's proxathon.
+-
+
 </details>
 
 ### Support Us
