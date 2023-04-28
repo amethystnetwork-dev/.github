@@ -25,9 +25,7 @@
   <img src="https://alienhub.xyz/images/ad-c8de3fef-bff1-4963-a417-3995855d70e0.gif" width="450" height="150">
 </a>
 
-# NOTICE
 
-Anyone who opens a pointless issue or pull request will be blacklisted.
 
 ### Discord Server
 
