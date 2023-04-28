@@ -60,10 +60,4 @@ We make web-proxy sites.
 
 ### Support Us
 
-**Monero**
-
-`873fBK2csCxKneeQ3XuXCPL5VsEM3saaD78AxPbjBJUZ8DoboU21nhF2TR7xLAdxTWRyQQKgtxA8fMnPvcfTGycoEfd7m77`
-
-**Ethereum Mainnet**
-
-`0xb121efc3d8DAfFf76E02840355c090A1ecb99EAF`
+https://www.buymeacoffee.com/amethystnetwork
