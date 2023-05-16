@@ -21,13 +21,17 @@
 
 ---
 
+<a href="https://alienhub.xyz/?utm_medium=amethystnetwork">
+  <img src="https://alienhub.xyz/images/ad-c8de3fef-bff1-4963-a417-3995855d70e0.gif" width="450" height="150">
+</a>
 
+# NOTICE
 
-
+Anyone who opens a pointless issue or pull request will be blacklisted.
 
 ### Discord Server
 
-[![Join us on Discord](https://invidget.switchblade.xyz/fzrmxgu2NR?theme=light)](https://discord.gg/fzrmxgu2NR)
+[![Join us on Discord](https://invidget.switchblade.xyz/KA2bKyyaYS?theme=light)](https://discord.gg/KA2bKyyaYS)
 
 ### About
 
@@ -58,4 +62,12 @@ We make web-proxy sites.
 
 ### Support Us
 
-https://www.buymeacoffee.com/amethystnetwork
+**Monero**
+
+`873fBK2csCxKneeQ3XuXCPL5VsEM3saaD78AxPbjBJUZ8DoboU21nhF2TR7xLAdxTWRyQQKgtxA8fMnPvcfTGycoEfd7m77`
+
+**Ethereum Mainnet**
+
+`0xb121efc3d8DAfFf76E02840355c090A1ecb99EAF`
+
+More options may be available in the future
