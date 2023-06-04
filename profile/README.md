@@ -30,8 +30,7 @@
 Anyone who opens a pointless issue or pull request will be blacklisted.
 
 ### Discord Server
-
-[![Join us on Discord](https://invidget.switchblade.xyz/KA2bKyyaYS?theme=light)](https://discord.gg/KA2bKyyaYS)
+[![Join us on Discord](https://invidget.switchblade.xyz/985982201302769765?theme=light)](https://amethystnetwork-dev.github.io/discord/invite)
 
 ### About
 
