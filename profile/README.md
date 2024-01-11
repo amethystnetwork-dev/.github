@@ -28,7 +28,7 @@ Anyone who opens a pointless issue or pull request will be blacklisted.
 
 ### About
 
-I make web-proxy sites.
+We make web-proxy sites.
 
 ### Projects
 <details>
@@ -40,7 +40,6 @@ I make web-proxy sites.
 - [Amethyst](https://github.com/amethystnetwork-dev/Amethyst) - Custom proxy website made for TN's proxathon.
 - [Incognito-Lite](https://github.com/amethystnetwork-dev/Incognito-Lite) - A lite version of Incognito powered by BUFFY.
 - [Bare Server Deployable](https://github.com/amethystnetwork-dev/bare-server-deployable) - A deployable version of the Bare Sever.
-- [Hypertabs](https://github.com/amethystnetwork-dev/Hypertabs) - A deployable version of Hypertabs.
 
 **Other**
 
@@ -51,16 +50,8 @@ I make web-proxy sites.
 
 -
 
+**Deprecated**
+
+- [Hypertabs](https://github.com/amethystnetwork-dev/Hypertabs) - A deployable version of Hypertabs.
+
 </details>
-
-### Support Us
-
-**Monero**
-
-`873fBK2csCxKneeQ3XuXCPL5VsEM3saaD78AxPbjBJUZ8DoboU21nhF2TR7xLAdxTWRyQQKgtxA8fMnPvcfTGycoEfd7m77`
-
-**Ethereum Mainnet**
-
-`0xb121efc3d8DAfFf76E02840355c090A1ecb99EAF`
-
-More options may be available in the future
